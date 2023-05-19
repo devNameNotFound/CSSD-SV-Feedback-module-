@@ -1,0 +1,13 @@
+{
+  "hello": "Hello",
+  "settings": "Settings",
+  "name": "Name",
+  "errorMessage": "An Error has occured",
+  "successMessage": "Success! Your feedback has been submited, and will be reviewed!",
+  "feedbackInputPlaceholder": "Write your message here!",
+  "comment": "Comment",
+  "quantityOfFeedbackToDisplay": "Quanity of Feedback to display",
+  "submitFeedback": "Submit your feedback here!",
+  "alertIsInEditMode": "This WebApp is only visible online",
+  "labelInputFeedback": "Be kind and help us improve our service, please leave a feedback comment!"
+}

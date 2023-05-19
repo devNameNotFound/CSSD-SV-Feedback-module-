@@ -1,0 +1,13 @@
+{
+  "hello": "Hej",
+  "settings": "Inställningar",
+  "name": "Namn",
+  "errorMessage": "Ett fel har uppstått",
+  "successMessage": "Framgång! Din feedback kommer att granskas!",
+  "feedbackInputPlaceholder": "Skriv din fråga här!",
+  "comment": "Kommentar",
+  "quantityOfFeedbackToDisplay": "Antal feedback som ska visas",
+  "submitFeedback": "Posta din feedback här!",
+  "alertIsInEditMode": "WebApp:en är endasat synlig online",
+  "labelInputFeedback": "Hjälp oss att förbättra tjänsten genom att lämna förbättringsförslag"
+}
